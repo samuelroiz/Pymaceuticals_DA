@@ -11,7 +11,9 @@ The company, Pymaceuticals, specializes in anti-cancer pharmaceuticals. It is a 
 
 This table portrays the Mouse ID along with its Tumor Volume. The Tumor Volume is calculated as the mean, median, variance, standard deviation, and others. It shows that each mouse tumor increases by 15 on average from the beginning to the end. However, this table helps understand which drug is beneficial or positive. 
 
-## Chart's at timepoint 45
+## Chart's
+
+Note: Values are found at timepoint 45
 
 ### Capomulin Drug
 
