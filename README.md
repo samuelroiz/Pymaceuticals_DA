@@ -16,17 +16,22 @@ This table portrays the Mouse ID along with its Tumor Volume. The Tumor Volume i
 
 ![Capomulin Drug](https://github.com/samuelroiz/Pymaceuticals_DA/blob/main/Images/Capomulin_Drug.png)
 
-Twenty-one mice used the Capomulin Drug for their tumor. Its final timepoint portrays the Capomulin Drug has increased its tumor at least above 30 mm3. Its maximum is almost 50 mm3. The minimum is at least 30 mm3. The average tumor is around 40 mm3 when using the Capomulin Drug.
+In this chart with a timepoint of 45, twenty-one mice used the Capomulin Drug for their tumor. Its final timepoint portrays the Capomulin Drug has increased its tumor at least above 30 mm3. Its maximum is almost 50 mm3. The minimum is at least 30 mm3. The average tumor is around 40 mm3 when using the Capomulin Drug.
 
 ### Ramicane Drug
 
 ![Ramicane Drug](https://github.com/samuelroiz/Pymaceuticals_DA/blob/main/Images/Ramicane_Drug.png)
 
-Twenty mice used the Ramicane Drug for their tumor. Its final timepoint portrays the Ramicane Drug has increased its tumor at least above 20 mm3. Its maximum is almost 47 mm3. The minimum is at least 20 mm3. The average tumor is around 36 mm3 when using the Ramicane Drug. Ramicane drug is efficient at reducing the tumor volume over time than the Capomulin drug. 
+In this chart with a timepoint of 45, twenty mice used the Ramicane Drug for their tumor. Its final timepoint portrays the Ramicane Drug has increased its tumor at least above 20 mm3. Its maximum is almost 47 mm3. The minimum is at least 20 mm3. The average tumor is around 36 mm3 when using the Ramicane Drug. Ramicane drug is efficient at reducing the tumor volume over time than the Capomulin drug. 
 
 ### Infubinol Drug
 
 ![Infubinol Drug](https://github.com/samuelroiz/Pymaceuticals_DA/blob/main/Images/Infubinol_Drug.png)
 
-Nine mice used the Infubinol Drug for their tumor. Its final timepoint portrays the Infubinol Drug has increased its tumor at least above 60 mm3. Its maximum is almost 67 mm3. The minimum is at least 60 mm3. The average tumor is around 64 mm3 when using the Infubinol Drug. Infubinol drug is less efficient at reducing the tumor volume over time than the Capomulin and Ramicane drug. It did the opposite of Ramicane, increasing the tumor size at a faster rate. 
+In this chart with a timepoint of 45, nine mice used the Infubinol Drug for their tumor. Its final timepoint portrays the Infubinol Drug has increased its tumor at least above 60 mm3. Its maximum is almost 67 mm3. The minimum is at least 60 mm3. The average tumor is around 64 mm3 when using the Infubinol Drug. Infubinol drug is less efficient at reducing the tumor volume over time than the Capomulin and Ramicane drug. It did the opposite of Ramicane, increasing the tumor size at a faster rate. 
 
+### Ceftamin Drug
+
+![Ceftamin Drug](https://github.com/samuelroiz/Pymaceuticals_DA/blob/main/Images/Ceftamin_Drug.png)
+
+In this chart with a time point of 45, thirteen mice used the Ceftamin Drug for their tumor. Its final timepoint portrays the Ceftamin Drug has increased its tumor at least above 60 mm3. Its maximum is almost 67 mm3. The minimum is at least 60 mm3. The average tumor is around 62 mm3 when using the Ceftamin Drug. Ceftamin drug is less efficient at reducing the tumor volume over time than the Capomulin and Ramicane drug. It did the opposite of Ramicane, increasing the tumor size at a faster rate. Therefore, the Ceftamin had the same results as the Infubinol drug.  
