@@ -64,5 +64,5 @@ The pie chart displays the percentage of females versus males in the given data.
 ![Total of Tumor Volume Female v Male](https://github.com/samuelroiz/Pymaceuticals_DA/blob/main/Images/Gender_Avg_Tumor_pyplot_pie.png)
 
 
-It shows the number of mice that survived evenly at time points. It also displays gender does not play a role in drug and tumor growth rate. 
+The charts show the number of mice that survived evenly at time points. It also displays gender does not play a role in drug and tumor growth rate. 
 
