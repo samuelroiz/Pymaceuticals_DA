@@ -53,7 +53,13 @@ This chart portrays the nine drugs used in the data and the outcome of the numbe
 
 ### Gender Total 
 
-![Gender Toal](https://github.com/samuelroiz/Pymaceuticals_DA/blob/main/Images/Gender_Tot_pyplot_pie.png)
+![Gender Total](https://github.com/samuelroiz/Pymaceuticals_DA/blob/main/Images/Gender_Tot_pyplot_pie.png)
 
 The pie chart displays the percentage of females versus males in the given data. There is point two percent more male mice than females. It tells us that the data can be used as a gender versus male in comparisons to see if gender plays a role in the data. 
+
+### Gender Total of Studies 
+
+![Total of Studies Female v Male](https://github.com/samuelroiz/Pymaceuticals_DA/blob/main/Images/Total_Studies_pandas_pie.png)
+
+It shows the number of mice that survived evenly at time points. It also displays gender does not play a role in drug and tumor growth rate. 
 
