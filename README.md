@@ -1,5 +1,8 @@
 # Pymaceuticals_DA
 
+## Background 
+The company, Pymaceuticals, specializes in anti-cancer pharmaceuticals. It is a burgeoning pharmaceutical company based out of San Diego. Pymaceuticals company started screening for potential treatments for squamous cell carcinoma (SCC). It is known as a form of skin cancer. Analyze the company with its given data to the complete data from their most recent animal study. In the data, there are 249 mice identified with SCC tumor growth. The mice were treated through a variety of drug regimens. Over 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. Generate all of the tables and figures needed for the technical report of the study. Create a top-level summary of the study results.
+
 ## Table's 
 
 ### Summary Stats Table
