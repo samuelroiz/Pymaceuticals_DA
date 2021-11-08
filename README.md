@@ -21,3 +21,9 @@ Twenty-one mice used the Capomulin Drug for their tumor. Its final timepoint por
 ### Ramicane Drug
 
 ![Ramicane Drug](https://github.com/samuelroiz/Pymaceuticals_DA/blob/main/Images/Ramicane_Drug.png)
+
+Twenty mice used the Ramicane Drug for their tumor. Its final timepoint portrays the Ramicane Drug has increased its tumor at least above 20 mm3. Its maximum is almost 47 mm3. The minimum is at least 20 mm3. The average tumor is around 36 mm3 when using the Ramicane Drug. Ramicane drug is efficient at reducing the tumor volume over time than the Capomulin drug. 
+
+### Infubinol Drug
+
+![Infubinol Drug](https://github.com/samuelroiz/Pymaceuticals_DA/blob/main/Images/Infubinol_Drug.png)
