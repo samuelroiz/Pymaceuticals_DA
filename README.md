@@ -27,3 +27,6 @@ Twenty mice used the Ramicane Drug for their tumor. Its final timepoint portrays
 ### Infubinol Drug
 
 ![Infubinol Drug](https://github.com/samuelroiz/Pymaceuticals_DA/blob/main/Images/Infubinol_Drug.png)
+
+Nine mice used the Infubinol Drug for their tumor. Its final timepoint portrays the Infubinol Drug has increased its tumor at least above 60 mm3. Its maximum is almost 67 mm3. The minimum is at least 60 mm3. The average tumor is around 64 mm3 when using the Infubinol Drug. Infubinol drug is less efficient at reducing the tumor volume over time than the Capomulin and Ramicane drug. It did the opposite of Ramicane, increasing the tumor size at a faster rate. 
+
