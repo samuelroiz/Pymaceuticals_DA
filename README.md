@@ -49,6 +49,12 @@ In this chart with a time point of 45, thirteen mice used the Ceftamin Drug for 
 
 This chart portrays the nine drugs used in the data and the outcome of the number of time points. The sum of timepoints shows what drug kept the mice's life span longer. Those two drugs with the highest sum of timepoints are Placebo and Infubinol. The lowest sum of timepoints is Propiva. The higher the sum timepoints are, the drug will keep the mice live longer and reduce the rate of the tumor. The lower the sum timepoints are, the drug poorly reduces the rate of tumor growth.  
 
+### Four Drug's
+
+![Four Drugs Drug's](https://github.com/samuelroiz/Pymaceuticals_DA/blob/main/Images/FourDrugBoxPlot.png)
+
+The following image is a chart that displays the final tumor volume of the four chosen treatments, capomulin, ramicane, infubinol, and ceftamin. Capomulin and ramicane have a higher success rate of reducing the tumor than ceftamin and infubinol. 
+
 ## Pie Chart
 
 ### Gender Total 
@@ -63,7 +69,18 @@ The pie chart displays the percentage of females versus males in the given data.
 
 ![Total of Tumor Volume Female v Male](https://github.com/samuelroiz/Pymaceuticals_DA/blob/main/Images/Gender_Avg_Tumor_pyplot_pie.png)
 
-The charts show the number of mice that survived evenly at time points. It also displays gender does not play a role in drug and tumor growth rate. 
+The charts show the number of mice that survived evenly at time points. It also displays gender does not play a role in drug and tumor growth rate.
+
+### Capomulin Drug Charts
+
+![Scatter Plot Weight Vs Tumor Vol](https://github.com/samuelroiz/Pymaceuticals_DA/blob/main/Images/Scatter_Plot_Weight_Vs_TumorVol_WITH_REG.png)
+
+The following image displays the weight versus tumor volume of using capomulin drug only. It also has the regression equation to help the readers understand what is the correlation between the two variables. 
+
+![Line Chart Weight Vs Tumor Vol](https://github.com/samuelroiz/Pymaceuticals_DA/blob/main/Images/Capomulin_Line_Chart_Plot.png)
+
+The image portrays the timepoints of mice that used the capomulin drug. The y-values are calculated as the mean. We see that the tumor volume is reduced dramatically as each day goes by. 
+
 
 ## Search Code
 
