@@ -89,3 +89,5 @@ The image portrays the timepoints of mice that used the capomulin drug. The y-va
 ![Mouse: a203](https://github.com/samuelroiz/Pymaceuticals_DA/blob/main/Images/Output_Search_MouseID.png)
 
 The following image displays the outcome of the code when you search for a mouse. You are shown a list of mouse IDs, then you are asked to search up one of the following mouse's ids. If not entered one of the mouse ids above, then the code fails. If entered one of the mouse ids above, then the code will run. As it runs, it will display a table of its mouse id, drug regimen, sex, age, weight, a total of studies, timepoint total, tumor volume average, and the number of metastatic sites. 
+
+  ## NOTES
