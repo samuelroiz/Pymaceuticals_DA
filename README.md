@@ -93,3 +93,5 @@ The following image displays the outcome of the code when you search for a mouse
   ## NOTES
 
 TABLE
+
+GRAPH
