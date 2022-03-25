@@ -90,8 +90,26 @@ The image portrays the timepoints of mice that used the capomulin drug. The y-va
 
 The following image displays the outcome of the code when you search for a mouse. You are shown a list of mouse IDs, then you are asked to search up one of the following mouse's ids. If not entered one of the mouse ids above, then the code fails. If entered one of the mouse ids above, then the code will run. As it runs, it will display a table of its mouse id, drug regimen, sex, age, weight, a total of studies, timepoint total, tumor volume average, and the number of metastatic sites. 
 
-  ## NOTES
+## Contributing
 
-TABLE
+Please read [CONTRIBUTING.md](https://gist.github.com/samuelroiz/1af49ec9eea365bc845ba04c5071a976) for details on our code of conduct, and the process for submitting pull requests to us.
 
-GRAPH
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* **Samuel Roiz** - *Data clean, Analyzed Data, Math Model* - [Profile](https://github.com/samuelroiz)
+
+See also the list of [contributors](https://github.com/samuelroiz) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/samuelroiz/1af49ec9eea365bc845ba04c5071a976) file for details
+
+## Acknowledgments
+
+* Pymaceuticals 
+* USC Data Visualization
+* CSUN Mathematics
