@@ -17,9 +17,7 @@ Note: Values are found at timepoint 45.
 
 ### Capomulin Drug
 
-![Capomulin Drug](https://github.com/samuelroiz/Pym
-
-aceuticals_DA/blob/main/Images/Capomulin_Drug.png)
+![Capomulin Drug](https://github.com/samuelroiz/Pymaceuticals_DA/blob/main/Images/Capomulin_Drug.png)
 
 In this chart with a timepoint of 45, twenty-one mice used the Capomulin Drug for their tumor. Its final timepoint portrays that the Capomulin Drug increased the tumor size to at least above 30 mm3, with a maximum of almost 50 mm3 and a minimum of at least 30 mm3. The average tumor size is around 40 mm3 when using the Capomulin Drug.
 
